@@ -1,0 +1,10 @@
+Metadata-Version: 2.1
+Name: shiva-loan-approval-ai-project
+Version: 0.0.1
+Summary: a simple loan approval prediction project using linear regression
+Home-page: https://github.com/ShivaMaheshwaram-AI
+Author: shiva maheshwaram
+Author-email: shivamaheshwaram1995@gmail.com
+Classifier: Programming Language :: python :: 3
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: OS Independent

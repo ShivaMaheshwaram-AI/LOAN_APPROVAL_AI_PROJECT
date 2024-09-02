@@ -1,0 +1,8 @@
+README.md
+setup.py
+loan_approval/__init__.py
+loan_approval/main.py
+shiva_loan_approval_ai_project.egg-info/PKG-INFO
+shiva_loan_approval_ai_project.egg-info/SOURCES.txt
+shiva_loan_approval_ai_project.egg-info/dependency_links.txt
+shiva_loan_approval_ai_project.egg-info/top_level.txt
