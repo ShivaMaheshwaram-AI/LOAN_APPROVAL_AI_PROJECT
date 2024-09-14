@@ -1,0 +1,5 @@
+include *.txt
+include *.md
+recursive-include ./loan_approval/*
+
+recrsive-include ./loan_approval/*.csv
